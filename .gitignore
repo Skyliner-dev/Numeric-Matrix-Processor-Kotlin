@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Numeric Matrix Processor (Kotlin)/*
+!/Numeric Matrix Processor (Kotlin)/task/
+/Numeric Matrix Processor (Kotlin)/task/*
+!/Numeric Matrix Processor (Kotlin)/task/src
